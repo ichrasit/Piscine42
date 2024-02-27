@@ -1,5 +1,6 @@
+// Sınavda ki strcmp ile projede ki farklıdır. Sınavda bu kodu gönderirseniz geçer.
 
-int	ft_strcmp(char *s1, char *s2)
+ft_strcmp(char *s1, char *s2)
 {
 	int i = 0;
 	
