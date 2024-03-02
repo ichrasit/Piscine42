@@ -22,7 +22,7 @@ void	ft_putnbr(int n)
 }
 
 // "yazdığınız stringde kac z varsa yazıcak" 
-// "putnbr ile pushluycaksınız | sınavda çıkıyor!!"
+// "sınavda çıkıyor!!"
 
 int	main(int ac, char **av)
 {
